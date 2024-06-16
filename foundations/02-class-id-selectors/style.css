@@ -1,0 +1,21 @@
+.odd-element{
+    background-color:lightpink;
+    font-family: 'Verdana';
+}
+
+#element2{
+    color:rgb(28, 23, 123);
+    font-size:36px;
+}
+
+#element3{
+    font-size:24px;
+}
+
+#element4{
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
+
+
